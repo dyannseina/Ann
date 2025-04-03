@@ -74,7 +74,7 @@ background-color: transparent !important;
     <div class='main'>
       <div class='left' onclick='left()'>
         <div class='left-main'>
-          <div class='logo' style='background-image: url(https://files.catbox.moe/xgaebx.jpg);'>
+          <div class='logo' style='background-image: url(https://files.catbox.moe/jihej1.jpg);'>
             <img alt='Khung viền' src='https://files.catbox.moe/7k3isz.png' style='position: absolute;top:-15%;left:-10%;width: 120%; aspect-ratio: 1/1;'/>
           </div>
           <div class='left-div left-des'>
@@ -117,7 +117,7 @@ background-color: transparent !important;
       </div>
       <div class='right'>
         <header>
-          <div class='index-logo' style='background-image: url(https://files.catbox.moe/xgaebx.jpg);'>
+          <div class='index-logo' style='background-image: url(https://files.catbox.moe/jihej1.jpg);'>
             <img alt='Khung viền' src='https://files.catbox.moe/7k3isz.png' style='position: absolute;top:-15%;left:-10%;width: 120%; aspect-ratio: 1/1;'/>
           </div>
           <div class='welcome'>Hii, I&#39;m <span class='gradientText'>Hoang Kim Duy An</span>
